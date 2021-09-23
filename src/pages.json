@@ -45,7 +45,7 @@
 		{
 			"path": "pages/search/search",
 			"style": {
-				"navigationBarTitleText": "搜素",
+				"navigationBarTitleText": "搜索",
 				"usingComponents": {
 					"van-search": "/wxcomponents/vant/dist/search/index",
 					"van-cell": "/wxcomponents/vant/dist/cell/index",
